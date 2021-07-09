@@ -4,6 +4,7 @@ import (
 	"context"
 
 	"github.com/Diego0liveira/Imersao_FullCycle-3.0/dto"
+	"github.com/Diego0liveira/Imersao_FullCycle-3.0/infrastructure/grpc/pb"
 	"github.com/Diego0liveira/Imersao_FullCycle-3.0/usecase"
 	"github.com/golang/protobuf/ptypes/empty"
 	"google.golang.org/grpc/codes"
